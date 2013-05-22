@@ -1,0 +1,64 @@
+body{
+	background-color: black;
+}
+
+
+#logo{
+	height:auto;
+	width:400px;
+}
+
+.logocase{
+	margin:15px 5px 5px 15px;
+	float:left;
+}
+
+#coverphoto{
+	height:auto;
+	width:750px;
+}
+
+.photocase{
+	margin:50px 10px 10px 10px;
+	float:right;
+}
+
+.navigation{
+	font-family: 'Nosifer', sans-serif;
+	color:white;
+	font-size:1.75em;
+	display:block;
+	width:450px;
+	height:auto;
+	float:left;
+	margin-top:50px;
+	clear:left;
+
+}
+
+.navigation ul{
+	list-style-type: none;
+}
+
+.navigation li{
+	margin:10px;
+}
+
+.navigation a{
+	text-decoration:none;
+	color:white;
+}
+.navigation a:hover{
+	color:red;
+}
+
+.shows{
+	font-family: Impact, Charcoal, sans-serif;
+	font-style:oblique;
+	color:white;
+	font-size:1.5em;
+	position:fixed;
+	top:50%;
+	left:50%;
+
+}
